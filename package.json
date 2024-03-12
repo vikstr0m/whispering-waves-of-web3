@@ -1,0 +1,23 @@
+{
+    "name": "whispering-waves-of-web3",
+    "version": "0.1.2",
+    "description": "Essential utilities for interacting with Ethereum blockchain.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vikstr0m/whispering-waves-of-web3"
+    },
+    "author": "vikstr0m",
+    "license": "MIT",
+    "dependencies": {
+        "ethers": "^5.0.0",
+        "web3": "^1.3.0",
+        "dotenv": "^8.2.0",
+        "axios": "^0.21.1",
+        "big.js": "^6.0.3",
+        "bip39": "^3.0.4"
+    }
+}
